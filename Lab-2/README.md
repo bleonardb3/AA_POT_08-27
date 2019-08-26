@@ -25,5 +25,5 @@ Upon completing the lab, you will know how to:
 ## Instructions:
 
 Step 1. Please click on the link below to download the instructions to your machine. <br>
-[Instructions](https://github.com/bleonardb3/AA_POT_07-30/raw/master/Lab-2/HeartDiseasev3.0.pdf).
+[Instructions](https://github.com/bleonardb3/AA_POT_08-27/raw/master/Lab-2/HeartDiseasev4.0.pdf).
 
